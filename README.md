@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @namannangia
 - 👀 I’m interested in Data Science and Analytics field
 - 🌱 I’m currently Python Advanced
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me out at nangia2002@gmail.com
 
 <!---
