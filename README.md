@@ -45,18 +45,14 @@
 
 ## 🌱 I’m currently learning
 I'm always learning and exploring new things. Currently, I'm diving into Kubernetes, Deployment, System Design, and Cloud.
+When not coding, you'll find me in most developer conferences. 
 
-## 🚀 Projects
-Here are some of the projects I'm proud of:
-1. [Portfolio App](https://github.com/namannangia/portfolioApp) - React-based portfolio site.
-2. [Tic Tac Toe](https://github.com/namannangia/TicTacToeProject) - Live Tic Tac Toe game.
-3. [ToDo App](https://github.com/namannangia/ReactNativeTodoApp) - Cross-platform todo application using Redux & React.
 
 You can find more of my work on [GitHub](https://github.com/namannangia).
 
 ## 📫 Contact
 - LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/naman-nangia)
-- Email: [nangia2002@gmail.com](mailto:nangia2002@gmail.com)
+- Email: [i.naman.nangia@gmail.com](mailto:i.naman.nangia@gmail.com)
 
 ## 💬 Let's connect
 I'm always open to interesting conversations and collaboration. Feel free to reach out!
